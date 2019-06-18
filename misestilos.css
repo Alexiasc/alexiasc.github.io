@@ -1,2 +1,7 @@
 p {font-size: 20px}
 #texto1 {font-size: 48px}
+.titulo{font: 20px ;font-family: "adamina", serif;}
+body {background-color: aquamarine; color: indianred; text-align: center;}
+#autor{font-style: italic; margin-bottom: 50px; font-family:  "adamina";}
+.cancion{margin: auto; padding: 20px; text-align: left; width: 400px;}
+.cancion h2 + p::first-letter{float: left; font-size: 30px; line-height: 1; margin: 2px 5px 0 0;}
